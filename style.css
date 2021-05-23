@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #c61a1a;
+    padding: 10px;
+    border: 20px solid #c61a1a;
+    margin-bottom: 0;
+}
+
+h1 {
+    text-align:center;
+}
+
+main{
+    padding: 10px;
+    padding-bottom:300px;
+    background:
+    url("https://cdn.pixabay.com/photo/2015/04/23/12/32/hell-735995_960_720.jpg") no-repeat 100% 100%
+
+}
+
+ol {
+    margin-bottom:20px;
+    font-size: 20px;
+    color: red;
+}
+
+footer {
+    padding: 5px;
+    background-color: #c61a1a;
+}
+
+p {
+
+    font-size: 20px;
+}
+
+main a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border: 1px solid indigo;
+    background-color: indigo;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
